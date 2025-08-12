@@ -1,3 +1,4 @@
+git ls-files | Select-String ".h5"
 # Ignorar entorno virtual
 venv/
 
