@@ -1,1 +1,3 @@
-web: python mi_app/app.py
+web: python app.py
+
+
